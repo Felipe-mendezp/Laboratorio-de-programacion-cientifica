@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/luish/OneDrive%20-%20Universidad%20de%20Chile/Universidad%20de%20Chile%20-%20FCFM/XI%20Semestre/MDS7202%20-%20Laboratorio%20de%20Programacion%20Cientifica%20para%20Ciencia%20de%20Datos/Lab%2011/laboratorio-11/mlruns/891728601890972873/f1d17fc233c741579b96ed82aa07a8bc/artifacts
+end_time: 1689123277319
+entry_point_name: ''
+experiment_id: '891728601890972873'
+lifecycle_stage: active
+run_id: f1d17fc233c741579b96ed82aa07a8bc
+run_name: 'RandomForestRegressor parameters {''n_estimators'': 200, ''max_depth'':
+  ''None''}'
+run_uuid: f1d17fc233c741579b96ed82aa07a8bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689123277120
+status: 3
+tags: []
+user_id: luish

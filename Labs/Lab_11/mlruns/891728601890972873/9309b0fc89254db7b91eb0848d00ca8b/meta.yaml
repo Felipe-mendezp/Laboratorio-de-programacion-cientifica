@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/luish/OneDrive%20-%20Universidad%20de%20Chile/Universidad%20de%20Chile%20-%20FCFM/XI%20Semestre/MDS7202%20-%20Laboratorio%20de%20Programacion%20Cientifica%20para%20Ciencia%20de%20Datos/Lab%2011/laboratorio-11/mlruns/891728601890972873/9309b0fc89254db7b91eb0848d00ca8b/artifacts
+end_time: 1689123644730
+entry_point_name: ''
+experiment_id: '891728601890972873'
+lifecycle_stage: active
+run_id: 9309b0fc89254db7b91eb0848d00ca8b
+run_name: 'SVR parameters {''kernel'': ''rbf'', ''C'': 1.0}'
+run_uuid: 9309b0fc89254db7b91eb0848d00ca8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689123639561
+status: 3
+tags: []
+user_id: luish

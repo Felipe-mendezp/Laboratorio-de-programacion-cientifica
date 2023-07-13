@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/luish/OneDrive%20-%20Universidad%20de%20Chile/Universidad%20de%20Chile%20-%20FCFM/XI%20Semestre/MDS7202%20-%20Laboratorio%20de%20Programacion%20Cientifica%20para%20Ciencia%20de%20Datos/Lab%2011/laboratorio-11/mlruns/891728601890972873/7ce7253c00194dff852259c811b0cfe7/artifacts
+end_time: 1689123333297
+entry_point_name: ''
+experiment_id: '891728601890972873'
+lifecycle_stage: active
+run_id: 7ce7253c00194dff852259c811b0cfe7
+run_name: 'XGBRegressor parameters {''learning_rate'': 0.1, ''n_estimators'': 200,
+  ''gamma'': 0.1}'
+run_uuid: 7ce7253c00194dff852259c811b0cfe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689123330471
+status: 3
+tags: []
+user_id: luish

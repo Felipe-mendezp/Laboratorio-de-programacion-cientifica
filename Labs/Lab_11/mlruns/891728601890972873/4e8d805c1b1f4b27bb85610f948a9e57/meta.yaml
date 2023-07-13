@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/luish/OneDrive%20-%20Universidad%20de%20Chile/Universidad%20de%20Chile%20-%20FCFM/XI%20Semestre/MDS7202%20-%20Laboratorio%20de%20Programacion%20Cientifica%20para%20Ciencia%20de%20Datos/Lab%2011/laboratorio-11/mlruns/891728601890972873/4e8d805c1b1f4b27bb85610f948a9e57/artifacts
+end_time: 1689123489423
+entry_point_name: ''
+experiment_id: '891728601890972873'
+lifecycle_stage: active
+run_id: 4e8d805c1b1f4b27bb85610f948a9e57
+run_name: 'LGBMRegressor parameters {''boosting_type'': ''gbdt'', ''num_leaves'':
+  31}'
+run_uuid: 4e8d805c1b1f4b27bb85610f948a9e57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689123486878
+status: 3
+tags: []
+user_id: luish

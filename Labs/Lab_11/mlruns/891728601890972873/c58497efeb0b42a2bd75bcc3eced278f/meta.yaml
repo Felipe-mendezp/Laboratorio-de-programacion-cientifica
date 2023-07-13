@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/luish/OneDrive%20-%20Universidad%20de%20Chile/Universidad%20de%20Chile%20-%20FCFM/XI%20Semestre/MDS7202%20-%20Laboratorio%20de%20Programacion%20Cientifica%20para%20Ciencia%20de%20Datos/Lab%2011/laboratorio-11/mlruns/891728601890972873/c58497efeb0b42a2bd75bcc3eced278f/artifacts
+end_time: 1689123321707
+entry_point_name: ''
+experiment_id: '891728601890972873'
+lifecycle_stage: active
+run_id: c58497efeb0b42a2bd75bcc3eced278f
+run_name: 'LinearRegression parameters {''fit_intercept'': True}'
+run_uuid: c58497efeb0b42a2bd75bcc3eced278f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689123318125
+status: 3
+tags: []
+user_id: luish

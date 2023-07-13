@@ -1,0 +1,35 @@
+# This is a boilerplate parameters config generated for pipeline 'train_model'
+# using Kedro 0.18.11.
+#
+# Documentation for this file format can be found in "Parameters"
+# Link: https://docs.kedro.org/en/0.18.11/kedro_project_setup/configuration.html#parameters
+
+
+
+split_params:
+  target: "price"
+  train_ratio: 0.8
+  valid_ratio: 0.1
+  random_state: 67
+
+
+train_params:
+  LinearRegression:
+    fit_intercept: true
+
+  RandomForestRegressor:
+    n_estimators: 200
+    max_depth: 10
+
+  SVR:
+    kernel: "rbf"
+    C: 1.0
+
+  XGBRegressor:
+    learning_rate: 0.1
+    n_estimators: 200
+    gamma: 0.1
+
+  LGBMRegressor:
+    boosting_type: "gbdt"
+    num_leaves: 31
